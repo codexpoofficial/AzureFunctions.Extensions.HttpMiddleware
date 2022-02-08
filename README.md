@@ -7,10 +7,6 @@
 
 <p align="center">  
 
-<a href="https://github.com/codexpoofficial/AzureFunctions.Extensions.HttpMiddleware/actions/workflows">
-<img src="https://github.com/codexpoofficial/AzureFunctions.Extensions.HttpMiddleware/actions/workflows/build.yml/badge.svg" alt="Build status"/>
-</a>
-
 <a href="https://www.nuget.org/packages/AzureFunctions.Extensions.HttpMiddleware">
 <img src="https://img.shields.io/nuget/v/AzureFunctions.Extensions.HttpMiddleware.svg" alt="Middleware version"/>
 </a>
