@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctions.Extensions.HttpMiddleware", "src\AzureFunctions.Extensions.HttpMiddleware\AzureFunctions.Extensions.HttpMiddleware.csproj", "{ADF3CFA2-C08A-4DCD-92EC-B5B1817614E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctions.Extensions.HttpMiddleware.Sample", "sample\AzureFunctions.Extensions.HttpMiddleware.Sample\AzureFunctions.Extensions.HttpMiddleware.Sample.csproj", "{423761E6-6937-4665-B15D-9FC94C98AF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF3CFA2-C08A-4DCD-92EC-B5B1817614E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF3CFA2-C08A-4DCD-92EC-B5B1817614E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF3CFA2-C08A-4DCD-92EC-B5B1817614E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF3CFA2-C08A-4DCD-92EC-B5B1817614E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423761E6-6937-4665-B15D-9FC94C98AF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423761E6-6937-4665-B15D-9FC94C98AF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423761E6-6937-4665-B15D-9FC94C98AF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423761E6-6937-4665-B15D-9FC94C98AF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFFC8D0-E402-4E1A-BC89-317273643F32}
+	EndGlobalSection
+EndGlobal
